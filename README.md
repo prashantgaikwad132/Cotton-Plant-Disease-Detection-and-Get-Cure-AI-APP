@@ -34,8 +34,24 @@ So basically, In ML we have to create our own feature vector, while for DL algor
 
 <img src="Figures/CNN-feature-extraction-and-classification.png">
 
+## Convolutional Neural Network
+
 A CNN is composed of two basic parts of feature extraction and classification.
 <li>Feature extraction includes several convolution layers followed by max-pooling and an activation function.
 <li>The classifier usually consists of fully connected layers.
 <li>CNN automatically detects the important features without any human supervision
 <li>And it makes efficient model which performs automatic feature extraction to achieve superhuman accuracy
+  
+<img src="Figures/convolutional-neural-network.png">
+
+#### CNN Model Building Details :
+<li>The main building block of CNN is the convolutional layer.
+<li>Convolution is a mathematical operation to merge two sets of information.
+<li>In our case the convolution is applied on the input data using a convolution filter to produce a feature map.
+<li>After a convolution operation we usually perform pooling to reduce the dimensionality. This enables us to reduce the number of parameters, which both shortens the training time and combats overfitting.
+<li>Pooling layers downsample each feature map independently, reducing the height and width.
+<li>The output of both convolution and pooling layers are 3D volumes, but a fully connected layer expects a 1D vector of numbers.
+<li>So we flatten the output of the final pooling layer to a vector and that becomes the input to the fully connected layer.
+<li>Flattening is simply arranging the 3D volume of numbers into a 1D vector.
+  
+<img src="Figures/maxpooling.png">
