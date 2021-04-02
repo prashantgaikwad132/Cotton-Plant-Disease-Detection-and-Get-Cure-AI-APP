@@ -26,10 +26,10 @@ Input Image >> Neural Network >> Result
 
 For Convolutional Neural Network (CNN),
 
-<img src="Figures/CNN-feature-extraction-and-classification.png">
-
 Input Layer >> Hidden Layers >> Output
 
 Here, input layer takes the input and output gives the desired output. That means hidden layer is doing some feature extractions. And if we extract the outputs of the hidden layers, then we will get different features.
 
 So basically, In ML we have to create our own feature vector, while for DL algorithms they extract features automatically in convolution layers
+
+<img src="Figures/CNN-feature-extraction-and-classification.png">
