@@ -2,6 +2,7 @@
 from flask import Flask, render_template, request
 
 import numpy as np
+import os
 
 from keras.preprocessing.image import load_img
 from keras.preprocessing.image import img_to_array
