@@ -32,7 +32,7 @@ notebook==6.0.3
 numpy==1.19.2
 opt-einsum==3.2.1
 packaging==20.4
-pandas==1.2.3
+pandas>=0.19
 pandas-datareader==0.8.1
 pandocfilters==1.4.3
 parso==0.7.0
