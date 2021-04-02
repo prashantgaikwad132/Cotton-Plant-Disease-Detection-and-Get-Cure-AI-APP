@@ -59,6 +59,8 @@ A CNN is composed of two basic parts of feature extraction and classification.
   
 <img src="Figures/maxpooling.png">
 
+## Results: 
+
 Date : March 31, 2021
 
 ----At epoch 95----
