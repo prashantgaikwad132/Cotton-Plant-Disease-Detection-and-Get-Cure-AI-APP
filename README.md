@@ -16,14 +16,16 @@ It Contains several steps like :
 <li>Resizing image data
   
 ## Feature Extraction
-In Traditional Machine Learning
+In Traditional Machine Learning,
 
 Input Image >> Feature Selections >> Classifier >> Result
 
-In Deep Learning
+In Deep Learning,
+
 Input Image >> Neural Network >> Result
 
-For CNN
+For Convolutional Neural Network (CNN),
+
 Input Layer >> Hidden Layers >> Output
 
 Here, input layer takes the input and output gives the desired output. That means hidden layer is doing some feature extractions. And if we extract the outputs of the hidden layers, then we will get different features.
