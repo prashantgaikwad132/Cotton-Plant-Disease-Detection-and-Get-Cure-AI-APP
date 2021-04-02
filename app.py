@@ -8,7 +8,7 @@ from keras.preprocessing.image import img_to_array
 from keras.models import load_model
 
 #load model
-model =load_model("v5_pred_cott_dis.h5")
+model =load_model("model/v6_pred_cott_dis.h5")
 
 print('@@ Model loaded')
 
