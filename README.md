@@ -69,3 +69,4 @@ Training loss : 0.235
 
 Validation loss : 0.114
 
+<img src="Figures/cnn_graphs.png">
