@@ -33,3 +33,9 @@ Here, input layer takes the input and output gives the desired output. That mean
 So basically, In ML we have to create our own feature vector, while for DL algorithms they extract features automatically in convolution layers
 
 <img src="Figures/CNN-feature-extraction-and-classification.png">
+
+A CNN is composed of two basic parts of feature extraction and classification.
+<li>Feature extraction includes several convolution layers followed by max-pooling and an activation function.
+<li>The classifier usually consists of fully connected layers.
+<li>CNN automatically detects the important features without any human supervision
+<li>And it makes efficient model which performs automatic feature extraction to achieve superhuman accuracy
