@@ -6,11 +6,11 @@ The major problem that the farmers around the world face is losses, because of p
 
 In this we are focuses on detecting cotton leaf diseases at an early stage, thereby decreasing the chances of the destruction of the whole plant. Traditional methods of detecting a disease include manual examining of a leaf and predicting the disease. But a farmer cannot determine the exact disease by this technique. Therefore, knowing the accurate disease image processing techniques can be utilized to recognize the disease of the plant leaf. These are modern techniques that make use of new technologies that give accurate results. 
 
-# Data Pre-Processing
+## Data Pre-Processing
 It Contains several steps like :
 
-<li>Data Collection<li>
-<li>Data Import<li>
-<li>Data Inspection<li>
-<li>Data Splitting<li>
-<li>Resizing image data<li>
+<li>Data Collection
+<li>Data Import
+<li>Data Inspection
+<li>Data Splitting
+<li>Resizing image data
