@@ -83,7 +83,7 @@ plotImages(images) #calling our function that we have created earlier
 
 
 # save best model using vall accuracy
-model_path = 'model/v6_pred_cott_dis.h5'
+model_path = 'v6_pred_cott_dis.h5'
 checkpoint = ModelCheckpoint(model_path, monitor='val_accuracy', verbose=1, save_best_only=True, mode='max')
 callbacks_list = [checkpoint]
 
