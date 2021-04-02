@@ -42,6 +42,7 @@ A CNN is composed of two basic parts of feature extraction and classification.
 <li>CNN automatically detects the important features without any human supervision
 <li>And it makes efficient model which performs automatic feature extraction to achieve superhuman accuracy
   
+  
 <img src="Figures/convolutional-neural-network.png">
 
 #### CNN Model Building Details :
@@ -55,3 +56,10 @@ A CNN is composed of two basic parts of feature extraction and classification.
 <li>Flattening is simply arranging the 3D volume of numbers into a 1D vector.
   
 <img src="Figures/maxpooling.png">
+
+Date : March 31, 2021
+----At epoch 95----
+Training accuracy : 91.44 %
+Validation accuracy : 96.30 % (highest)
+Training loss : 0.235
+Validation loss : 0.114
