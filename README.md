@@ -17,7 +17,7 @@ It Contains several steps like :
   
 ## Feature Extraction
 In Traditional Machine Learning
-<ol>
+
 Input Image >> Feature Selections >> Classifier >> Result
 
 In Deep Learning
