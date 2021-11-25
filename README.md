@@ -63,14 +63,14 @@ A CNN is composed of two basic parts of feature extraction and classification.
 
 Date : March 31, 2021
 
-----At epoch 95----
+----At epoch 82----
 
-Training accuracy : 91.44 %
+Training accuracy : 90.11 %
 
-Validation accuracy : 96.30 % (highest)
+Validation accuracy : 94.69 % (highest)
 
-Training loss : 0.235
+Training loss : 0.279
 
-Validation loss : 0.114
+Validation loss : 0.286
 
 <img src="Figures/cnn_graphs.png">
