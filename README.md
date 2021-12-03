@@ -1,4 +1,4 @@
-# Cotton Plant Disease Detection and Get Cure AI APP 
+# Cotton Plant Disease Type Detection and Get Cure AI APP 
 
 APP Link : https://cottonplantcurepy.herokuapp.com/
 
