@@ -1,8 +1,7 @@
 # Cotton Plant Disease Type Detection and Get Cure AI APP 
 
 APP Link : https://cottonplantcurepy.herokuapp.com/
-
-(It may takes more time to load, then try 1-2 times more and app will be loaded)
+(If it's taking too much time to load, then try 1-2 times more & app will be loaded)
 
 The major problem that the farmers around the world face is losses, because of pests, disease or a nutrient deficiency. They depend upon the information that they get from the agricultural departments for the diagnosis of plant leaf disease. This process is lengthy and complicated. Here comes a system to help farmers everywhere in the world by automatically detecting cotton leaf diseases accurately and within no time. In this paper, the proposed system uses a type of CNN for classification of leaf disease. Several experiments are performed on the dataset to get the accurate output. The proposed system can effectively identified different types of diseases with the ability to deal with complex scenarios from a plant’s area.
 
